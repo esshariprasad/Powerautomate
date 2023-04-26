@@ -1,10 +1,12 @@
 # UHCOPIT-POSTER-APPROVAL-FLOW
 
-https://www.uh.edu/pharmacy/
+Author: [Sai Shiva Hari Prasad Embar](https://github.com/esshariprasad)
+
+
 
 
 ### Title: Implementation of Poster Printing Request Form for UH College of Pharmacy
-
+https://www.uh.edu/pharmacy/
 #### Objective:
 The objective of this project was to develop a poster printing request form that can be used by students and professors at the University of Houston College of Pharmacy to submit poster printing requests easily and efficiently. The goal was to reduce errors, processing time and improve the user experience.
 
