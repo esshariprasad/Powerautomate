@@ -23,6 +23,13 @@ Integrating SharePoint: I used SharePoint to store and manage poster printing re
 
 Testing and Deployment: Once the poster printing request form was designed and integrated with SharePoint, we thoroughly tested the entire process to ensure its accuracy and efficiency. Once we were confident in the system's functionality, we deployed it for use by students and professors.
 
+### Backend Powerautomate Flow
+
+<img width="1281" alt="image" src="https://user-images.githubusercontent.com/19888725/234633724-755cfbf9-ec37-4250-b0df-617918cf498f.png">
+
+
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/19888725/234634488-88df0c89-80b8-490f-8cac-6985b952bd96.png">
+
 ### Results:
 The implementation of the poster printing request form using Cognito Forms, Power Automate Workflow, and SharePoint resulted in significant improvements in the processing time and user experience. The system reduced errors by 50% and processing time by 60%, resulting in quicker and more accurate printing requests. The system has served over 1000 students and professors, providing them with an easy-to-use and efficient solution for their poster printing needs.
 
@@ -39,9 +46,3 @@ The implementation of the poster printing request form using Cognito Forms, Powe
 
 
 
-# Backend Powerautomate Flow
-
-<img width="1281" alt="image" src="https://user-images.githubusercontent.com/19888725/234633724-755cfbf9-ec37-4250-b0df-617918cf498f.png">
-
-
-<img width="1324" alt="image" src="https://user-images.githubusercontent.com/19888725/234634488-88df0c89-80b8-490f-8cac-6985b952bd96.png">
