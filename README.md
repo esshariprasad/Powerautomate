@@ -1,7 +1,9 @@
-# Powerautomate
+# UHCOPIT-POSTER-APPROVAL-FLOW
+
+https://www.uh.edu/pharmacy/
 
 
-### Title: Implementation of Poster Printing Request Form using Cognito Forms, Power Automate Workflow, and SharePoint
+### Title: Implementation of Poster Printing Request Form for UH College of Pharmacy
 
 #### Objective:
 The objective of this project was to develop a poster printing request form that can be used by students and professors at the University of Houston College of Pharmacy to submit poster printing requests easily and efficiently. The goal was to reduce errors, processing time and improve the user experience.
@@ -27,12 +29,11 @@ The implementation of the poster printing request form using Cognito Forms, Powe
 
 
 
+#### Submission Form link: https://www.cognitoforms.com/UniversityOfHouston9/UHCOPPosterRequestForm
 
 
 
 
-
-[UH College of Pharmacy Poster Request Form](https://www.cognitoforms.com/UniversityOfHouston9/UHCOPPosterRequestForm)
 
 <img width="1202" alt="image" src="https://user-images.githubusercontent.com/19888725/234634821-ec33e5de-7297-46df-a150-2bbe6c645f4b.png">
 
